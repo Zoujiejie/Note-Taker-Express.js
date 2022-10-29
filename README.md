@@ -1,5 +1,9 @@
 # Note-Taker-Express.js
 
+## Websites
+- GitHub Repo: https://github.com/Zoujiejie/Note-Taker-Express.js 
+- Heroku: https://note-taker-zoujie.herokuapp.com/ 
+
 ## User Story
 ```sh
 AS A small business owner
