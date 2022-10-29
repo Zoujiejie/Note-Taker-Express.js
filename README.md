@@ -25,5 +25,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Appendix
-What is middleware: https://expressjs.com/en/guide/writing-middleware.html
-What is require(): https://nodejs.org/en/knowledge/getting-started/what-is-require/ 
+- What is middleware: https://expressjs.com/en/guide/writing-middleware.html
+- What is require(): https://nodejs.org/en/knowledge/getting-started/what-is-require/ 
