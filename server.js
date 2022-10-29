@@ -11,13 +11,13 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // HTML routes
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'Develop/public/index.html'));
-})
-
 app.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, 'Develop/public/notes.html'));
 });
+
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, 'Develop/public/index.html'));
+})
 
 //Set the exports object to a function or a new object
 require('./apiRoutes.js')(app);
