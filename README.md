@@ -24,5 +24,6 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-## Credits
-Express.js: https://expressjs.com/en/guide/writing-middleware.html
+## Appendix
+What is middleware: https://expressjs.com/en/guide/writing-middleware.html
+What is require(): https://nodejs.org/en/knowledge/getting-started/what-is-require/ 
